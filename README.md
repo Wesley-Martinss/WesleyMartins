@@ -1,8 +1,3 @@
-<!-- Contador de visitas -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Wesley-Martinss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
-
 <!-- Cabeçalho com animação -->
 <div align="center">
   <a href="https://git.io/typing-svg">
